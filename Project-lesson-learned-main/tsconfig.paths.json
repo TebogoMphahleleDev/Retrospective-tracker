@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "*": ["*", "Project-lesson-learned-main/src/*"]
+    }
+  }
+}
