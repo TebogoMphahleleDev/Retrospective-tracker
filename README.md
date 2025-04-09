@@ -11,9 +11,9 @@ for authutication services
 >>>>
 >>>>This are our access code for the frontEnd team
 
-Tebogo - tebogo@frontend.com / tebogo123 
-Anele - anele@frontend.com / anele123
-Hluli - hluli@frontend.com / hluli123
+tebogo@frontend.com / tebogo123 
+anele@frontend.com / anele123
+hluli@frontend.com / hluli123
 
 for admin board you wanna view the admin board use this credentials ,i would prefer you use this one for full access
 Email: tebogo@test.com
